@@ -1,0 +1,6 @@
+{
+  "name": "PELAGIX — Coastal Impact Intelligence",
+  "description": "Global sea-level forecasting and coastal impact intelligence platform translating NASA/IPCC projections, elevation, population, and infrastructure into explainable risk assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
